@@ -1,0 +1,104 @@
+* { font-family: "Comfortaa", cursive; }
+
+body {
+  background-color: #5b4f7d;
+}
+
+a {
+  color: #6699cc;
+  text-decoration: none;
+}
+
+.main {
+  text-align: center;
+}
+
+.logo {
+  max-width: 99%;
+  max-height: 99%;
+}
+
+.description {
+  max-width: 30rem;
+  margin: auto;
+  padding: 1rem;
+  color: #d1dce6; 
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px; 
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+  max-width: 99%;
+  max-height: 99%;
+}
+
+.running {
+  background-color: #6699cc;
+  color: #d1dce6;
+  border: 2px solid #6699cc;
+}
+
+.running:hover {
+  background-color: #5b4f7d; 
+  color: #d1dce6;
+  border: 2px solid #6699cc;
+}
+
+.motivation {
+  background-color: #a8a832;
+  color: #d1dce6;
+  border: 2px solid #a8a832;
+}
+
+.motivation:hover {
+  background-color: #5b4f7d; 
+  color: #d1dce6;
+  border: 2px solid #a8a832;
+}
+
+.building {
+  background-color: #ec5f67;
+  color: #d1dce6;
+  border: 2px solid #ec5f67;
+}
+
+.building:hover {
+  background-color: #5b4f7d; 
+  color: #d1dce6;
+  border: 2px solid #ec5f67;
+}
+
+.contributing {
+  background-color: #99c794;
+  color: #d1dce6;
+  border: 2px solid #99c794;
+}
+
+.contributing:hover {
+  background-color: #5b4f7d; 
+  color: #d1dce6;
+  border: 2px solid #99c794;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: #d1dce6;
+   text-align: center;
+}
+
+.heart {
+  vertical-align:middle
+}
